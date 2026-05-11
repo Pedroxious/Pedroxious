@@ -11,7 +11,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Hey+there!+Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Hey+there!+Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -86,9 +86,21 @@ My goal is to establish myself as a **Creative Developer**, merging high-quality
 ## 📧 Contact
 
 <div align="center">
-  <a href="mailto:pedroxious@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedroxious/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+touch.%0A%0ABest+regards." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedrosantos-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<br/>
+
+---
+
+## ☕ Support
+
+<div align="center">
+  <a href="https://buymeacoffee.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://ko-fi.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
 <br/>
