@@ -1,0 +1,162 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🌀 PEDRO AZEVEDO — README DO PERFIL GITHUB            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Alternador de Idioma -->
+<div align="right">
+  <a href="./README.md">🇺🇸 English</a>
+</div>
+
+<div align="center">
+
+  <!-- Header Animado com Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Ol%C3%A1%2C+bem-vindo(a)+ao+meu+perfil+do+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Badges: Seguir + Contador de Visualizações -->
+  <p>
+    <a href="https://github.com/Pedroxious" target="_blank">
+      <img src="https://img.shields.io/github/followers/Pedroxious?label=Seguir&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="Seguir no GitHub" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Pedroxious&label=Você+é+o+visitante&color=BB86FC&style=for-the-badge&label_color=555555" alt="Contador de Visualizações do Perfil"/>
+  </p>
+
+  <!-- Divisor Animado com Ondas SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%203D%20%7C%20Experiências%20Interativas&descAlignY=52&descSize=16" width="100%" />
+
+</div>
+
+---
+
+## 👤 Sobre Mim
+
+**Desenvolvedor Front-end & Creative Developer** com experiência em React e TypeScript, atuando na construção de SPAs modernas, escaláveis e de alta performance em ambiente SaaS multi-tenant.
+
+Atualmente trabalho com desenvolvimento de interfaces integradas a APIs REST, consumo de serviços backend e implementação de fluxos complexos de onboarding, garantindo organização de código, componentização e boas práticas de arquitetura no Front-end.
+
+Além da especialização em Front-end, também atuo no backend com Node.js, desenvolvendo integrações, manipulando webhooks, estruturando APIs REST, trabalhando com PostgreSQL e MySQL, utilizando Docker para containerização e aplicando testes automatizados para garantir qualidade e confiabilidade das aplicações.
+
+Tenho forte interesse em **experiências interativas e 3D na web**, trabalhando com **Three.js**, **WebGL**, **GSAP** e **Blender** para criar interfaces imersivas e visualmente impactantes.
+
+Meu objetivo é consolidar uma atuação como **Creative Developer**, unindo Front-end de alta qualidade com animações, 3D e experiências interativas de ponta.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### 📚 Linguagens
+<img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
+<img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
+<img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;
+<img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
+<img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+### ✨ Frameworks e Bibliotecas
+<img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
+<img alt="NextJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;
+<img alt="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;
+<img alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
+<img alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+
+### 🎨 3D & Creative Tools
+<img alt="Three.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white" height="28"/>&nbsp;
+<img alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+
+### 💾 Bancos de Dados
+<img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
+<img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white" height="28"/>
+
+### ⚙️ Ferramentas e Cloud
+<img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28"/>&nbsp;
+<img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"/>&nbsp;
+<img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;
+<img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+---
+
+## 📧 Contatos
+
+<div align="center">
+  <a href="mailto:pedroxious@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedroxious/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<br/>
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+  <!-- Card de Estatísticas do GitHub -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9&ring_color=BB86FC&locale=pt-br" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=default&hide_border=true&locale=pt-br" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9&locale=pt-br" width="49%" />
+  </picture>
+  &nbsp;
+  <!-- Card de Linguagens Mais Usadas -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8&locale=pt-br" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=default&hide_border=true&langs_count=8&locale=pt-br" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8&locale=pt-br" width="42%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Estatísticas de Streak -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC&locale=pt_BR" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=default&hide_border=true&locale=pt_BR" />
+    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC&locale=pt_BR" width="60%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Gráfico de Atividade no GitHub -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" width="95%" />
+
+  <br/><br/>
+
+  <!-- Troféus do Perfil GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha" src="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 🖥️ Confira Meus Repositórios ⬇
+
+<div align="center">
+
+  <!-- Onda Animada no Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
