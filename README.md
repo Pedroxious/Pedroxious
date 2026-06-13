@@ -26,7 +26,7 @@
   </p>
 
   <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%20Motion%20%26%203D%20%7C%20Interactive%20Experiences&descAlignY=52&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%20Motion%20%26amp%3B%203D%20%7C%20Interactive%20Experiences&descAlignY=52&descSize=16" width="100%" />
 
 </div>
 
@@ -81,14 +81,6 @@ My goal is to establish myself as a **Creative Developer**, merging high-quality
 <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"/>&nbsp;
 <img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-### <img src="https://img.shields.io/badge/🏢-Microsoft%20365-BB86FC?style=flat" height="24"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28"/>
 
 ### <img src="https://img.shields.io/badge/🎬-Design%20%26%20Media-BB86FC?style=flat" height="24"/>
 <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;
@@ -156,7 +148,7 @@ My goal is to establish myself as a **Creative Developer**, merging high-quality
   <br/><br/>
 
   <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedroxious&theme=aura" width="90%" alt="GitHub Trophies" /></a>
 
 </div>
 
