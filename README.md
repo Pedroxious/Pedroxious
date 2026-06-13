@@ -48,41 +48,40 @@ My goal is to establish myself as a **Creative Developer**, merging high-quality
 
 ## 🖥️ Technologies & Tools
 
-### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="28"/>
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
 <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
 <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;
 <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
 <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-### <img src="https://img.shields.io/badge/✨-Frameworks%20%26%20Libraries-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/✨-Frameworks%20%26%20Libraries-BB86FC?style=flat" height="28"/>
 <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
 <img alt="NextJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;
 <img alt="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;
-<img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;
 <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp;
 <img alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 
-### <img src="https://img.shields.io/badge/🎨-3D%20%26%20Creative-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/🎨-3D%20%26%20Creative-BB86FC?style=flat" height="28"/>
 <img alt="Three.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/Spline-0D0D0D?style=flat&logo=spline&logoColor=white" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white" height="28"/>&nbsp;
 <img alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 
-### <img src="https://img.shields.io/badge/💾-Databases-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/💾-Databases-BB86FC?style=flat" height="28"/>
 <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
 <img alt="SQLite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>&nbsp;
 <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-### <img src="https://img.shields.io/badge/☁️-DevOps%20%26%20Cloud-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/☁️-DevOps%20%26%20Cloud-BB86FC?style=flat" height="28"/>
 <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28"/>&nbsp;
 <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"/>&nbsp;
 <img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-### <img src="https://img.shields.io/badge/🎬-Design%20%26%20Media-BB86FC?style=flat" height="24"/>
+### <img src="https://img.shields.io/badge/🎬-Design%20%26%20Media-BB86FC?style=flat" height="28"/>
 <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;
 <img alt="After Effects" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>&nbsp;
 <img alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
