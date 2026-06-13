@@ -26,7 +26,7 @@
   </p>
 
   <!-- Divisor Animado com Ondas SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%203D%20%7C%20Experiências%20Interativas&descAlignY=52&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%20Motion%20%26%203D%20%7C%20Experiências%20Interativas&descAlignY=52&descSize=16" width="100%" />
 
 </div>
 
@@ -46,40 +46,54 @@ Meu objetivo é consolidar uma atuação como **Creative Developer**, unindo Fro
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 
-### 📚 Linguagens
+### <img src="https://img.shields.io/badge/📚-Linguagens-BB86FC?style=flat" height="24"/>
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
 <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
 <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;
 <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
 <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-### ✨ Frameworks e Bibliotecas
+### <img src="https://img.shields.io/badge/✨-Frameworks%20e%20Bibliotecas-BB86FC?style=flat" height="24"/>
 <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
 <img alt="NextJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;
 <img alt="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;
-<img alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
+<img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;
+<img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp;
 <img alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 
-### 🎨 3D & Creative Tools
+### <img src="https://img.shields.io/badge/🎨-3D%20e%20Criativo-BB86FC?style=flat" height="24"/>
 <img alt="Three.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/Spline-0D0D0D?style=flat&logo=spline&logoColor=white" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white" height="28"/>&nbsp;
 <img alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 
-### 💾 Bancos de Dados
+### <img src="https://img.shields.io/badge/💾-Bancos%20de%20Dados-BB86FC?style=flat" height="24"/>
 <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
-<img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white" height="28"/>
+<img alt="SQLite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>&nbsp;
+<img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-### ⚙️ Ferramentas e Cloud
+### <img src="https://img.shields.io/badge/☁️-DevOps%20e%20Cloud-BB86FC?style=flat" height="24"/>
 <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28"/>&nbsp;
 <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"/>&nbsp;
-<img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;
-<img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+### <img src="https://img.shields.io/badge/🏢-Microsoft%20365-BB86FC?style=flat" height="24"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28"/>
+
+### <img src="https://img.shields.io/badge/🎬-Design%20e%20M%C3%ADdia-BB86FC?style=flat" height="24"/>
+<img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;
+<img alt="After Effects" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>&nbsp;
+<img alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
 
 ---
 
@@ -142,7 +156,7 @@ Meu objetivo é consolidar uma atuação como **Creative Developer**, unindo Fro
   <br/><br/>
 
   <!-- Troféus do Perfil GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Troféus do GitHub" /></a>
 
 </div>
 
