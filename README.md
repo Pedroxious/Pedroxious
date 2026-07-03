@@ -1,6 +1,6 @@
-<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...]
 <!--                    🌀 PEDRO AZEVEDO — GITHUB PROFILE README              -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...]
 
 <!-- Language Toggle -->
 <div align="right">
@@ -11,7 +11,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Hey!+Welcome+to+my+Profile+%F0%9F%91%8B;I'm+a+Front-end+%26+Creative+Developer+💻;Let%27s+build+something+amazing+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=hey!+welcome+to+my+profile" alt="Typing SVG - welcome"/>
   </a>
 
   <br/>
@@ -26,7 +26,7 @@
   </p>
 
   <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Header Wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
@@ -36,11 +36,11 @@
 
 Front-end & Creative Developer with experience in React, TypeScript and Next.js, building modern, scalable, high-performance SPAs styled with Tailwind and Bootstrap.
 
-Currently working on developing interfaces integrated with REST APIs, consuming backend services and implementing complex onboarding flows — ensuring clean code organization, componentization and Front-end architecture best practices.
+Currently working on developing interfaces integrated with REST APIs, consuming backend services and implementing complex onboarding flows — ensuring clean code organization, componentization and Fr[...] 
 
-Beyond my Front-end specialization, I also work on the backend with Node.js and Python — building integrations, handling webhooks, structuring REST APIs, and working with PostgreSQL and MySQL. I use Docker and GitHub Actions for containerization and CI/CD, and apply automated tests to ensure application quality and reliability.
+Beyond my Front-end specialization, I also work on the backend with Node.js and Python — building integrations, handling webhooks, structuring REST APIs, and working with PostgreSQL and MySQL. I use[...] 
 
-I have a strong passion for interactive and 3D web experiences, working with Three.js, WebGL, Spline, GSAP and Blender to craft immersive and visually stunning interfaces. I also bring design sensibility into development, using Figma, After Effects and Photoshop to prototype and polish visual details.
+I have a strong passion for interactive and 3D web experiences, working with Three.js, WebGL, Spline, GSAP and Blender to craft immersive and visually stunning interfaces. I also bring design sensibil[...] 
 
 My goal is to establish myself as a Creative Developer, merging high-quality Front-end with animations, 3D and cutting-edge interactive experiences.
 
@@ -91,7 +91,7 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
 ## 📧 Contact
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+touch!" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+tou[...]"/>
   <a href="https://www.linkedin.com/in/pedrosantos-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
@@ -118,31 +118,31 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
 
   <!-- GitHub Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9"/>
   </picture>
   &nbsp;
   <!-- Top Languages Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8"/>
   </picture>
 
   <br/><br/>
 
   <!-- GitHub Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="GitHub Streak" width="60%" />
+    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="GitHub Streak" width="60%"/>
   </picture>
 
   <br/><br/>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC"/>
 
   <br/><br/>
 
