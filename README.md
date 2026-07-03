@@ -1,6 +1,6 @@
-<!-- ═════════════════════════════════════════════════════════════════[...]
+<!-- ════════════════════════════════════════════════════════════════[...] 
 <!--                    🌀 PEDRO AZEVEDO — GITHUB PROFILE README              -->
-<!-- ═════════════════════════════════════════════════════════════════[...]
+<!-- ════════════════════════════════════════════════════════════════[...] 
 
 <!-- Language Toggle -->
 <div align="right">
@@ -9,9 +9,12 @@
 
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
+  <!-- Animated Typing SVG Header (responsive) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=hey!+welcome+to+my+profile" alt="Typing SVG - welcome"/>
+    <picture>
+      <source media="(max-width:480px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=48&lines=hey!+welcome+to+my+profile" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=hey!+welcome+to+my+profile" alt="Typing SVG - welcome" />
+    </picture>
   </a>
 
   <br/>
@@ -38,9 +41,9 @@ Front-end & Creative Developer with experience in React, TypeScript and Next.js,
 
 Currently working on developing interfaces integrated with REST APIs, consuming backend services and implementing complex onboarding flows — ensuring clean code organization, componentization and Fr[...] 
 
-Beyond my Front-end specialization, I also work on the backend with Node.js and Python — building integrations, handling webhooks, structuring REST APIs, and working with PostgreSQL and MySQL. I use[...] 
+Beyond my Front-end specialization, I also work on the backend with Node.js and Python — building integrations, handling webhooks, structuring REST APIs, and working with PostgreSQL and MySQL. I[...] 
 
-I have a strong passion for interactive and 3D web experiences, working with Three.js, WebGL, Spline, GSAP and Blender to craft immersive and visually stunning interfaces. I also bring design sensibil[...] 
+I have a strong passion for interactive and 3D web experiences, working with Three.js, WebGL, Spline, GSAP and Blender to craft immersive and visually stunning interfaces. I also bring design sens[...] 
 
 My goal is to establish myself as a Creative Developer, merging high-quality Front-end with animations, 3D and cutting-edge interactive experiences.
 
@@ -118,23 +121,23 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
 
   <!-- GitHub Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_colo[...]"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1d9"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedroxious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=BB86FC&title_color=BB86FC&text_color=c9d1[...]"/>
   </picture>
   &nbsp;
   <!-- Top Languages Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117[...]"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs[...]"/>
   </picture>
 
   <br/><br/>
 
   <!-- GitHub Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLa[...]"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=default&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="GitHub Streak" width="60%"/>
   </picture>
@@ -142,7 +145,7 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
   <br/><br/>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color[...]"/>
 
   <br/><br/>
 
