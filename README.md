@@ -1,6 +1,6 @@
-<!-- ════════════════════════════════════════════════════════════════[...] 
+<!-- ═════════════════════════════════════════════════════════════════[...]
 <!--                    🌀 PEDRO AZEVEDO — GITHUB PROFILE README              -->
-<!-- ════════════════════════════════════════════════════════════════[...] 
+<!-- ═════════════════════════════════════════════════════════════════[...] 
 
 <!-- Language Toggle -->
 <div align="right">
@@ -28,8 +28,11 @@
     <img src="https://komarev.com/ghpvc/?username=Pedroxious&label=You+are+visitor&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views Counter"/>
   </p>
 
-  <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <!-- Animated Wave SVG Divider (responsive fontSize) -->
+  <picture>
+    <source media="(max-width:480px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Pedro%20Azevedo&fontSize=28&fontColor=ffffff&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Wave - Pedro Azevedo"/>
+  </picture>
 
 </div>
 
@@ -94,7 +97,7 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
 ## 📧 Contact
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+tou[...]"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+tou[...]
   <a href="https://www.linkedin.com/in/pedrosantos-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
@@ -128,55 +131,4 @@ My goal is to establish myself as a Creative Developer, merging high-quality Fro
   &nbsp;
   <!-- Top Languages Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117[...]"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs[...]"/>
-  </picture>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLa[...]"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="GitHub Streak" width="60%"/>
-  </picture>
-
-  <br/><br/>
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color[...]"/>
-
-  <br/><br/>
-
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pedroxious/Pedroxious/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-## 🖥️ Check Out My Repos ⬇
-
-<div align="center">
-
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
-
-</div>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117[...]
