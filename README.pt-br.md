@@ -34,15 +34,15 @@
 
 ## 👤 Sobre Mim
 
-Desenvolvedor Front-end & Creative Developer com experiência em React, TypeScript e Next.js, atuando na construção de SPAs modernas, escaláveis e de alta performance, estilizadas com Tailwind e Bo[...] 
+**Desenvolvedor Front-end & Criativo** com experiência em React, TypeScript e Next.js, construindo SPAs modernas, escaláveis e de alta performance, estilizadas com Tailwind e Bootstrap.
 
-Atualmente trabalho com desenvolvimento de interfaces integradas a APIs REST, consumo de serviços backend e implementação de fluxos complexos de onboarding, garantindo organização de código, com[...] 
+Atualmente trabalho no desenvolvimento de interfaces integradas com APIs REST, consumindo serviços de backend e implementando fluxos complexos de onboarding, garantindo organização de código limpo, componentização e boas práticas de arquitetura Front-end.
 
-Além da especialização em Front-end, também atuo no backend com Node.js e Python — desenvolvendo integrações, manipulando webhooks, estruturando APIs REST e trabalhando com PostgreSQL e MySQL.[...] 
+Além da minha especialização em Front-end, também trabalho no backend com **Node.js** e **Python**, construindo integrações, lidando com webhooks, estruturando APIs REST e trabalhando com PostgreSQL e MySQL. Utilizo **Docker** e **GitHub Actions** para containerização e CI/CD, além de aplicar testes automatizados para garantir a qualidade e confiabilidade das aplicações.
 
-Tenho forte paixão por experiências interativas e 3D na web, trabalhando com Three.js, WebGL, Spline, GSAP e Blender para criar interfaces imersivas e visualmente impactantes. Também trago sensibil[...] 
+Tenho grande paixão por **experiências web interativas e 3D**, trabalhando com **Three.js**, **WebGL**, **Spline**, **GSAP** e **Blender** para criar interfaces imersivas e visualmente impactantes. Também trago sensibilidade de design para o desenvolvimento, utilizando **Figma**, **After Effects** e **Photoshop** para prototipar e refinar detalhes visuais.
 
-Meu objetivo é consolidar uma atuação como Creative Developer, unindo Front-end de alta qualidade com animações, 3D e experiências interativas de ponta.
+Meu objetivo é me estabelecer como **Creative Developer**, unindo Front-end de alta qualidade com animações, 3D e experiências interativas de ponta.
 
 ---
 
