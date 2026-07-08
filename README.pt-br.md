@@ -142,8 +142,8 @@ No lado criativo, gosto de explorar experiências web interativas e 3D no meu te
 
   <br/><br/>
 
-  <!-- Troféus do Perfil GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=tokyonight&no-frame=true&row=1&column=7&locale=pt-br" alt="Troféus do GitHub" width="100%" />
+  <!-- Troféus do GitHub -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Pedroxious&theme=radical" width="90%" alt="Troféus do GitHub" /></a>
 
 </div>
 
