@@ -143,7 +143,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
   <br/><br/>
 
   <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedroxious&theme=aura" width="90%" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pedroxious&theme=radical&no-bg=true&row=1&column=7" width="90%" alt="GitHub Trophies" /></a>
 
 </div>
 
