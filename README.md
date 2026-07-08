@@ -26,7 +26,7 @@
   </p>
 
   <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Creative%20Developer%20%7C%20Front-end%20%7C%20Motion%20%26amp%3B%203D%20%7C%20Interactive%20Experiences&descAlignY=52&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Infrastructure%20%26amp%3B%20Systems%20%7C%20Creative%20Developer&descAlignY=52&descSize=16" width="100%" />
 
 </div>
 
