@@ -25,8 +25,8 @@
     <img src="https://komarev.com/ghpvc/?username=Pedroxious&label=Você+é+o+visitante&color=BB86FC&style=for-the-badge&label_color=555555" alt="Contador de Visualizações do Perfil"/>
   </p>
 
-  <!-- Divisor Animado com Ondas SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <!-- Divisor SVG Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Infraestrutura%20de%20TI%20%26amp%3B%20Sistemas%20%7C%20Desenvolvedor%20Criativo&descAlignY=52&descSize=16" width="100%" />
 
 </div>
 
