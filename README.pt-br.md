@@ -11,7 +11,7 @@
 
   <!-- Header Animado com Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=oi!+bem-vindo+ao+meu+perfil" alt="Typing SVG - bem-vindo"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=olá!+bem-vindo+ao+meu+perfil" alt="Typing SVG - bem-vindo"/>
   </a>
 
   <br/>
@@ -34,15 +34,11 @@
 
 ## 👤 Sobre Mim
 
-**Desenvolvedor Front-end & Criativo** com experiência em React, TypeScript e Next.js, construindo SPAs modernas, escaláveis e de alta performance, estilizadas com Tailwind e Bootstrap.
+Tenho experiência em troubleshooting de ambientes **Windows** e **Linux**, gestão de **Active Directory** e **Microsoft 365**, e aplicação de práticas **ITIL 4** para gestão de incidentes e serviços. Também tenho familiaridade com fundamentos de redes (**TCP/IP**, **DNS**, **DHCP**, **SSH**, **RDP**) e ferramentas de virtualização como **VMware** e **VirtualBox**.
 
-Atualmente trabalho no desenvolvimento de interfaces integradas com APIs REST, consumindo serviços de backend e implementando fluxos complexos de onboarding, garantindo organização de código limpo, componentização e boas práticas de arquitetura Front-end.
+Como projeto pessoal e hobby, também programo, trabalhando com **React**, **TypeScript** e **Next.js** para construir SPAs estilizadas com Tailwind e Bootstrap, e integrando APIs REST para consumir serviços de backend. Também já explorei desenvolvimento backend, usando **Node.js** e **Python** para integrações, webhooks, e trabalhando com **PostgreSQL** e **MySQL**, além de **Docker** e **GitHub Actions** para containerização e CI/CD.
 
-Além da minha especialização em Front-end, também trabalho no backend com **Node.js** e **Python**, construindo integrações, lidando com webhooks, estruturando APIs REST e trabalhando com PostgreSQL e MySQL. Utilizo **Docker** e **GitHub Actions** para containerização e CI/CD, além de aplicar testes automatizados para garantir a qualidade e confiabilidade das aplicações.
-
-Tenho grande paixão por **experiências web interativas e 3D**, trabalhando com **Three.js**, **WebGL**, **Spline**, **GSAP** e **Blender** para criar interfaces imersivas e visualmente impactantes. Também trago sensibilidade de design para o desenvolvimento, utilizando **Figma**, **After Effects** e **Photoshop** para prototipar e refinar detalhes visuais.
-
-Meu objetivo é me estabelecer como **Creative Developer**, unindo Front-end de alta qualidade com animações, 3D e experiências interativas de ponta.
+No lado criativo, gosto de explorar experiências web interativas e 3D no meu tempo livre, trabalhando com **Three.js**, **WebGL**, **Spline**, **GSAP** e **Blender** para criar interfaces imersivas, e usando **Figma**, **After Effects** e **Photoshop** para prototipar e refinar detalhes visuais.
 
 ---
 
