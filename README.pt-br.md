@@ -11,7 +11,7 @@
 
   <!-- Header Animado com Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=olá!+bem-vindo+ao+meu+perfil" alt="Typing SVG - bem-vindo"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Olá!+bem-vindo(a)+ao+meu+perfil" alt="Typing SVG - bem-vindo"/>
   </a>
 
   <br/>
