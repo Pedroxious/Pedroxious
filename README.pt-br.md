@@ -34,8 +34,6 @@
 
 ## 👤 Sobre Mim
 
-Tenho experiência em troubleshooting de ambientes **Windows** e **Linux**, gestão de **Active Directory** e **Microsoft 365**, e aplicação de práticas **ITIL 4** para gestão de incidentes e serviços. Também tenho familiaridade com fundamentos de redes (**TCP/IP**, **DNS**, **DHCP**, **SSH**, **RDP**) e ferramentas de virtualização como **VMware** e **VirtualBox**.
-
 Como projeto pessoal e hobby, também programo, trabalhando com **React**, **TypeScript** e **Next.js** para construir SPAs estilizadas com Tailwind e Bootstrap, e integrando APIs REST para consumir serviços de backend. Também já explorei desenvolvimento backend, usando **Node.js** e **Python** para integrações, webhooks, e trabalhando com **PostgreSQL** e **MySQL**, além de **Docker** e **GitHub Actions** para containerização e CI/CD.
 
 No lado criativo, gosto de explorar experiências web interativas e 3D no meu tempo livre, trabalhando com **Three.js**, **WebGL**, **Spline**, **GSAP** e **Blender** para criar interfaces imersivas, e usando **Figma**, **After Effects** e **Photoshop** para prototipar e refinar detalhes visuais.
