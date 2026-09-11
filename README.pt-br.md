@@ -34,7 +34,7 @@
 
 ## 👤 Sobre Mim
 
-Como projeto pessoal e hobby, também programo, trabalhando com **React**, **TypeScript** e **Next.js** para construir SPAs estilizadas com Tailwind e Bootstrap, e integrando APIs REST para consumir serviços de backend. Também já explorei desenvolvimento backend, usando **Node.js** e **Python** para integrações, webhooks, e trabalhando com **PostgreSQL** e **MySQL**, além de **Docker** e **GitHub Actions** para containerização e CI/CD.
+Também programo, trabalhando com **React**, **TypeScript** e **Next.js** para construir SPAs estilizadas com Tailwind e Bootstrap, e integrando APIs REST para consumir serviços de backend. Também já explorei desenvolvimento backend, usando **Node.js** e **Python** para integrações, webhooks, e trabalhando com **PostgreSQL** e **MySQL**, além de **Docker** e **GitHub Actions** para containerização e CI/CD.
 
 No lado criativo, gosto de explorar experiências web interativas e 3D no meu tempo livre, trabalhando com **Three.js**, **WebGL**, **Spline**, **GSAP** e **Blender** para criar interfaces imersivas, e usando **Figma**, **After Effects** e **Photoshop** para prototipar e refinar detalhes visuais.
 
