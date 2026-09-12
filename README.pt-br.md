@@ -126,22 +126,22 @@ No lado criativo, gosto de explorar experiências web interativas e 3D no meu te
 
   <br/><br/>
 
-  <!-- Estatísticas de Streak -->
+  <!-- GitHub Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pedroxious&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" alt="GitHub Streak" width="60%"/>
+    <img src="https://streak-stats.demolab.com?user=Pedroxious&theme=tokyo-night&hide_border=true&background=0d1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" width="60%" />
   </picture>
 
   <br/><br/>
 
-  <!-- Gráfico de Atividade no GitHub -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC"/>
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" width="95%" />
 
   <br/><br/>
 
-  <!-- Troféus do GitHub -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Pedroxious&theme=radical" width="90%" alt="Troféus do GitHub" /></a>
+  <!-- GitHub Profile Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Pedroxious&theme=aura" width="90%" alt="GitHub Trophies" /></a>
 
 </div>
 
