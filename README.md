@@ -32,6 +32,15 @@
 
 ---
 
+<!-- 3D Contributions Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pedro's 3D Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+---
+
 ## <h2 align="center">👤 About Me</h2>
 
 <p align="justify">
@@ -43,14 +52,6 @@
 
 <br/>
 
-<!-- 3D Contributions Graph -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pedro's 3D Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
----
 
 ## <h2 align="center">🖥️ Technologies & Tools </h2>
 
