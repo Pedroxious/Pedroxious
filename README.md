@@ -24,15 +24,14 @@
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=Pedroxious&label=You+are+visitor&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views Counter"/>
   </p>
+  
 
   <!-- Animated Wave SVG Divider -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Infrastructure%20%26amp%3B%20Systems%20%7C%20Creative%20Developer&descAlignY=52&descSize=16" width="100%" />
 
 </div>
 
----
-
-## <h2 align="center">👤 About Me</h2>
+  <!-- About Me -->
 
 <p align="justify">
   I have experience in software development, working with <strong>React</strong>, <strong>TypeScript</strong> and <strong>Next.js</strong> to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using <strong>Node.js</strong> and <strong>Python</strong> for integrations, webhooks, and working with <strong>PostgreSQL</strong> and <strong>MySQL</strong>, along with <strong>Docker</strong> and <strong>GitHub Actions</strong> for containerization and CI/CD.
@@ -52,7 +51,7 @@
 
 ---
 
-## <h2 align="center">🖥️ Technologies & Tools </h2>
+# <h2 align="center">🖥️ Technologies & Tools </h2>
 
 ### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="28"/>
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
