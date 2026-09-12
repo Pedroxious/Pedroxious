@@ -32,15 +32,16 @@
 
 ---
 
-## 👤 About Me
+## <h2 align="center">👤 About Me</h2>
 
-I have experience in software development, working with **React**, **TypeScript** and **Next.js** to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using **Node.js** and **Python** for integrations, webhooks, and working with **PostgreSQL** and **MySQL**, along with **Docker** and **GitHub Actions** for containerization and CI/CD.
+<p align="justify">
+  I have experience in software development, working with <strong>React</strong>, <strong>TypeScript</strong> and <strong>Next.js</strong> to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using <strong>Node.js</strong> and <strong>Python</strong> for integrations, webhooks, and working with <strong>PostgreSQL</strong> and <strong>MySQL</strong>, along with <strong>Docker</strong> and <strong>GitHub Actions</strong> for containerization and CI/CD.
+</p>
+<p align="justify">
+  On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with <strong>Three.js</strong>, <strong>WebGL</strong>, <strong>Spline</strong>, <strong>GSAP</strong> and <strong>Blender</strong> to craft immersive interfaces, and using <strong>Figma</strong>, <strong>After Effects</strong> and <strong>Photoshop</strong> to prototype and polish visual details.
+</p>
 
-On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with **Three.js**, **WebGL**, **Spline**, **GSAP** and **Blender** to craft immersive interfaces, and using **Figma**, **After Effects** and **Photoshop** to prototype and polish visual details.
-
----
-
-## 🖥️ Technologies & Tools
+## <h2 align="center">🖥️ Technologies & Tools </h2>
 
 ### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="28"/>
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
@@ -82,7 +83,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
 
 ---
 
-## 📧 Contact
+## <h2 align="center">📧 Contact</h2>
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+touch.%0A%0ABest+regards." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -94,7 +95,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
 
 ---
 
-## ☕ Support
+## <h2 align="center">☕ Support</h2>
 
 <div align="center">
   <a href="https://buymeacoffee.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
@@ -106,7 +107,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
 
 ---
 
-## 📊 GitHub Activity
+## <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
 
@@ -149,7 +150,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
 
 ---
 
-## 🐍 Contributions
+## <h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
   <picture>
@@ -163,7 +164,7 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
 
 ---
 
-## 🖥️ Check Out My Repos ⬇
+## <h2 align="center">🖥️ Check Out My Repos ⬇</h2>
 
 <div align="center">
 
