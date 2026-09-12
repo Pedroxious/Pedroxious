@@ -33,14 +33,14 @@
 
   <!-- About Me -->
 
+#
+
 <p align="justify">
-  I have experience in software development, working with <strong>React</strong>, <strong>TypeScript</strong> and <strong>Next.js</strong> to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using <strong>Node.js</strong> and <strong>Python</strong> for integrations, webhooks, and working with <strong>PostgreSQL</strong> and <strong>MySQL</strong>, along with <strong>Docker</strong> and <strong>GitHub Actions</strong> for containerization and CI/CD.
-</p>
-<p align="justify">
-  On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with <strong>Three.js</strong>, <strong>WebGL</strong>, <strong>Spline</strong>, <strong>GSAP</strong> and <strong>Blender</strong> to craft immersive interfaces, and using <strong>Figma</strong>, <strong>After Effects</strong> and <strong>Photoshop</strong> to prototype and polish visual details.
+  I have experience in software development, working with <strong>React</strong>, <strong>TypeScript</strong> and <strong>Next.js</strong> to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using <strong>Node.js</strong> and <strong>Python</strong> for integrations, webhooks, and working with <strong>PostgreSQL</strong> and <strong>MySQL</strong>, along with <strong>Docker</strong> and <strong>GitHub Actions</strong> for containerization and CI/CD. On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with <strong>Three.js</strong>, <strong>WebGL</strong>, <strong>Spline</strong>, <strong>GSAP</strong> and <strong>Blender</strong> to craft immersive interfaces, and using <strong>Figma</strong>, <strong>After Effects</strong> and <strong>Photoshop</strong> to prototype and polish visual details.
 </p>
 
 <br/>
+
 
 <!-- 3D Contributions Graph -->
 <div align="center">
