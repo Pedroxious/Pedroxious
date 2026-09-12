@@ -41,17 +41,9 @@
 
 <br/>
 
-
-<!-- 3D Contributions Graph -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pedro's 3D Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
 ---
 
-# <h2 align="center">🖥️ Technologies & Tools </h2>
+<h2 align="center">🖥️ Technologies & Tools </h2>
 
 ### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="28"/>
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
@@ -93,33 +85,18 @@
 
 ---
 
-## <h2 align="center">📧 Contact</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+touch.%0A%0ABest+regards." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedrosantos-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+
+
+<!-- 3D Contributions Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pedro's 3D Contribution Graph" width="100%" />
 </div>
 
 <br/>
-
----
-
-## <h2 align="center">☕ Support</h2>
-
-<div align="center">
-  <a href="https://buymeacoffee.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-  &nbsp;
-  <a href="https://ko-fi.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</div>
-
-<br/>
-
----
-
-## <h2 align="center">📊 GitHub Activity</h2>
-
-<div align="center">
 
   <!-- GitHub Stats Card -->
   <picture>
@@ -160,7 +137,7 @@
 
 ---
 
-## <h2 align="center">🐍 Contributions</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
   <picture>
@@ -173,6 +150,32 @@
 <br/>
 
 ---
+
+<h2 align="center">☕ Support</h2>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://ko-fi.com/pedroxious" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</div>
+
+
+<br/>
+
+---
+
+<h2 align="center">📧 Contact</h2>
+
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroazevedojoel@gmail.com&su=Hello+Pedro!+Contact+via+GitHub&body=Hi+Pedro%2C%0A%0AI+found+your+profile+on+GitHub+and+would+like+to+get+in+touch.%0A%0ABest+regards." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedrosantos-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pedroxious" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<br/>
+
+---
+
 
 ## <h2 align="center">🖥️ Check Out My Repos ⬇</h2>
 
