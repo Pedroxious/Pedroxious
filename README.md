@@ -136,12 +136,13 @@ On the creative side, I enjoy exploring interactive and 3D web experiences in my
   <br/><br/>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" width="95%" />
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=Pedroxious&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" width="95%" />
 
   <br/><br/>
 
   <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Pedroxious&theme=radical" width="90%" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Pedroxious&theme=aura" width="90%" alt="GitHub Trophies" /></a>
+
 </div>
 
 <br/>
