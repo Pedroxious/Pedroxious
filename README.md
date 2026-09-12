@@ -41,6 +41,17 @@
   On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with <strong>Three.js</strong>, <strong>WebGL</strong>, <strong>Spline</strong>, <strong>GSAP</strong> and <strong>Blender</strong> to craft immersive interfaces, and using <strong>Figma</strong>, <strong>After Effects</strong> and <strong>Photoshop</strong> to prototype and polish visual details.
 </p>
 
+<br/>
+
+<!-- 3D Contributions Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pedro's 3D Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+---
+
 ## <h2 align="center">🖥️ Technologies & Tools </h2>
 
 ### <img src="https://img.shields.io/badge/📚-Languages-BB86FC?style=flat" height="28"/>
