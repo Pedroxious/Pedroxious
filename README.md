@@ -34,9 +34,13 @@
 
 ## 👤 About Me
 
-I also code, working with **React**, **TypeScript** and **Next.js** to build SPAs styled with Tailwind and Bootstrap, and integrating REST APIs to consume backend services. I've experimented with backend development too, using **Node.js** and **Python** for integrations, webhooks, and working with **PostgreSQL** and **MySQL**, along with **Docker** and **GitHub Actions** for containerization and CI/CD.
+**Front-end & Creative Developer** with experience in React, TypeScript and Next.js, building modern, scalable, high-performance SPAs styled with Tailwind and Bootstrap.
 
-On the creative side, I enjoy exploring interactive and 3D web experiences in my free time, working with **Three.js**, **WebGL**, **Spline**, **GSAP** and **Blender** to craft immersive interfaces, and using **Figma**, **After Effects** and **Photoshop** to prototype and polish visual details.
+Currently working on developing interfaces integrated with REST APIs, consuming backend services and implementing complex onboarding flows, ensuring clean code organization, componentization and Front-end architecture best practices.
+
+Beyond my Front-end specialization, I also work on the backend with **Node.js** and **Python**, building integrations, handling webhooks, structuring REST APIs, and working with PostgreSQL and MySQL. I use **Docker** and **GitHub Actions** for containerization and CI/CD, and apply automated tests to ensure application quality and reliability.
+
+I have a strong passion for **interactive and 3D web experiences**, working with **Three.js**, **WebGL**, **Spline**, **GSAP** and **Blender** to craft immersive and visually stunning interfaces. I also bring design sensibility into development, using **Figma**, **After Effects** and **Photoshop** to prototype and polish visual details.
 
 ---
 
