@@ -9,10 +9,8 @@
 
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Hey+there!+Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <!-- Animated Wave SVG Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Infrastructure%20%26amp%3B%20Systems%20%7C%20Creative%20Developer&descAlignY=52&descSize=16" width="100%" />
 
   <br/>
 
@@ -25,9 +23,11 @@
     <img src="https://komarev.com/ghpvc/?username=Pedroxious&label=You+are+visitor&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views Counter"/>
   </p>
   
-
-  <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Pedro%20Azevedo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Infrastructure%20%26amp%3B%20Systems%20%7C%20Creative%20Developer&descAlignY=52&descSize=16" width="100%" />
+ <!-- Animated Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Hey+there!+Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+ 
 
 </div>
 
